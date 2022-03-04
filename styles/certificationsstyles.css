@@ -1,0 +1,106 @@
+body {
+
+    margin: 0;
+
+    padding: 0;
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    line-height: 1.5em;
+
+}
+
+.navbar {
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    margin-top: 50px;
+
+
+}
+
+.navbar a {
+
+    font-size: 25pt;
+
+    color: #9c41da;
+
+    opacity: 71%;
+
+    text-decoration: none;
+
+    transition: 1s;
+
+}
+
+.navbar a:hover {
+
+    font-size: 25pt;
+
+    color: #cb53f0;
+
+    opacity: 76%;
+
+    text-decoration: none; 
+
+    letter-spacing: 3px;
+
+}
+
+.header {
+
+    font-size: 50px;
+
+    color: #fc4cdb;
+
+    opacity: 78%;
+
+    display: flex;
+
+    justify-content: center;
+    
+    align-items: center;
+
+    margin: 100px;
+
+}
+
+.certifications {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr;
+
+    grid-template-rows: 1fr 1fr;
+
+    text-align: center;
+
+    margin-right: 5%;
+
+    margin-left: 5%;
+
+    margin-bottom: 80px;
+
+}
+
+.videodesign {
+
+    margin-top: 20px;
+
+}
+
+.visualdesign {
+
+    margin-top: 20px;
+    
+}
+
+.mta {
+
+    margin-top: 20px;
+    
+}

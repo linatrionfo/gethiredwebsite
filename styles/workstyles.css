@@ -1,0 +1,290 @@
+body {
+
+    margin: 0;
+
+    padding: 0;
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    line-height: 1.5em;
+
+}
+
+.navbar {
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    margin-top: 50px;
+
+
+}
+
+.navbar a {
+
+    font-size: 25pt;
+
+    color: #9c41da;
+
+    opacity: 71%;
+
+    text-decoration: none;
+
+    transition: 1s;
+
+}
+
+.navbar a:hover {
+
+    font-size: 25pt;
+
+    color: #cb53f0;
+
+    opacity: 76%;
+
+    text-decoration: none; 
+
+    letter-spacing: 3px;
+
+}
+
+.header {
+
+    font-size: 50px;
+
+    color: #fc4cdb;
+
+    opacity: 78%;
+
+    display: flex;
+
+    justify-content: center;
+    
+    align-items: center;
+
+    margin: 100px;
+
+}
+
+.examplewrapper {
+
+    display: flex;
+
+    justify-content: center;
+    
+    align-items: center;
+
+    margin-bottom: 100px;
+
+}
+
+.examples {
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: center;
+
+    width: 1200px;
+
+}
+
+.examples p {
+
+    color: #ce1adb;
+
+    opacity: 88%;
+
+    font-size: 14pt;
+
+    width: 500px;
+
+    text-transform: uppercase;
+
+    font-size: 22px;
+
+    margin: 50px;
+
+    display: flex;
+
+    justify-content: center;
+    
+    align-items: center;
+
+}
+
+.exampleone {
+
+    height: auto;
+
+    display: flex;
+
+    justify-content: center;
+
+    text-align: center;
+
+}
+
+.exampleone a {
+
+    transition: 1s;
+
+}
+
+.exampleone a:hover {
+
+    border: #ce1adb;
+
+    border-width: 5px;
+
+    border-style: solid;
+
+}
+
+.exampletwo {
+
+    height: auto;
+
+    display: flex;
+
+    justify-content: center;
+
+    text-align: center;
+
+}
+
+
+.exampletwo a {
+
+    transition: 1s;
+
+}
+
+.exampletwo a:hover {
+
+    border: #ce1adb;
+
+    border-width: 5px;
+
+    border-style: solid;
+
+}
+
+.examplethree {
+
+    height: auto;
+
+    display: flex;
+
+    justify-content: center;
+
+    text-align: center;
+
+}
+
+
+.examplethree a {
+
+    transition: 1s;
+
+}
+
+.examplethree a:hover {
+
+    border: #ce1adb;
+
+    border-width: 5px;
+
+    border-style: solid;
+
+}
+
+.examplefour {
+
+    height: auto;
+
+    display: flex;
+
+    justify-content: center;
+
+    text-align: center;
+
+}
+
+.examplefour a {
+
+    transition: 1s;
+
+}
+
+.examplefour a:hover {
+
+    border: #ce1adb;
+
+    border-width: 5px;
+
+    border-style: solid;
+
+}
+
+.examplefive {
+
+    height: auto;
+
+    display: flex;
+
+    justify-content: center;
+
+    text-align: center;
+
+}
+
+.examplefive a {
+
+    transition: 1s;
+
+}
+
+.examplefive a:hover {
+
+    border: #ce1adb;
+
+    border-width: 5px;
+
+    border-style: solid;
+
+}
+
+.examplesix {
+
+    height: auto;
+
+    display: flex;
+
+    justify-content: center;
+
+    text-align: center;
+
+}
+
+.examplesix a {
+
+    transition: 1s;
+
+}
+
+.examplesix a:hover {
+
+    border: #ce1adb;
+
+    border-width: 5px;
+
+    border-style: solid;
+
+}
